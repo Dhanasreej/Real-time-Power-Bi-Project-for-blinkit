@@ -17,15 +17,18 @@
    inventory distribution
 
 5. Key questions such as:
-   What is the total sales revenue generated?
-   What is the average sales per item/outlet/type?
-   Which item types are generating the most revenue?
-   How do sales vary by outlet size and location (Tier 1, 2, 3)?
-   Which outlet types (Supermarket, Grocery Store, etc.) contribute the most to overall sales?
-   How have sales trends evolved over the years (Outlet Establishment Year vs. Sales)?
-   What is the average customer rating across different outlet types?
-   Which outlet types or item categories have higher customer ratings?
-   What is the distribution of item types and fat content (Regular vs. Low Fat)?
+  1. What is the total sales revenue generated?
+  2. What is the average sales per item/outlet/type?
+  3. Which item types are generating the most revenue?
+  4. How do sales vary by outlet size and location (Tier 1, 2, 3)?
+  5. Which outlet types (Supermarket, Grocery Store, etc.) contribute the most to overall sales?
+  6. How have sales trends evolved over the years (Outlet Establishment Year vs. Sales)?
+  7. What is the average customer rating across different outlet types?
+  8. Which outlet types or item categories have higher customer ratings?
+  9.What is the distribution of item types and fat content (Regular vs. Low Fat)?
+
+6. Screenshots:
+   [Dashboard Preview](https://github.com/Dhanasreej/Real-time-Power-Bi-Project-for-blinkit/blob/main/Screenshot%20of%20the%20dashboard.png)
    
 
 
