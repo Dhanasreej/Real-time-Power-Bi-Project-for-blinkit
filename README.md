@@ -14,7 +14,19 @@
 4. Features:
    sales performance
    customer satisfaction
-   inventory distribution 
+   inventory distribution
+
+5. Key questions such as:
+   What is the total sales revenue generated?
+   What is the average sales per item/outlet/type?
+   Which item types are generating the most revenue?
+   How do sales vary by outlet size and location (Tier 1, 2, 3)?
+   Which outlet types (Supermarket, Grocery Store, etc.) contribute the most to overall sales?
+   How have sales trends evolved over the years (Outlet Establishment Year vs. Sales)?
+   What is the average customer rating across different outlet types?
+   Which outlet types or item categories have higher customer ratings?
+   What is the distribution of item types and fat content (Regular vs. Low Fat)?
+   
 
 
 
