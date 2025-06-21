@@ -12,9 +12,9 @@
    2. Dataset includes: Item Fat Content, Item Identifier, Item Type, Outlet Establishment Year, Outlet Identifier, Outlet Location Type, Outlet Size, Outlet Type, Item Visibility, Item Visibility, Sales, Rating
 
 **4. Features:**
-   1. sales performance
-   2. customer satisfaction
-   3. inventory distribution
+   1. Sales performance
+   2. Customer satisfaction
+   3. Inventory distribution
 
 **5. Key questions such as:**
   1. What is the total sales revenue generated?
@@ -29,6 +29,7 @@
 
 **6. Screenshots:**
    [Dashboard Preview](https://github.com/Dhanasreej/Real-time-Power-Bi-Project-for-blinkit/blob/main/Screenshot%20of%20the%20dashboard.png)
+   
    
    
 
